@@ -1,4 +1,4 @@
-### Hi!!! I'm Wallyson 👻
+### Hi! I'm Wallyson 👻
 
 <!--
 **Wallesu/Wallesu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
