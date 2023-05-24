@@ -6,7 +6,7 @@
   <img height="180em" style="border-radius: 0" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wallesu&layout=compact&langs_count=7&theme=omni"/>
 </div><br>
   
-### Languages I work
+### Languages I work with
 <div style="display: flex; justify-content: flex-start">
   <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
